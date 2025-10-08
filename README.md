@@ -15,7 +15,7 @@ Pas de panique : il suffit de s'inspirer des exemples précédents.
 Dans ce second TP,
 
 - sont révisées les clauses `SELECT, FROM et ORDER BY`,
-- sont illustrées la fonction `concat()` et la clause `As`,
+- sont illustrées la fonction `concat()` et la clause `AS`,
 - est découverte la CLAUSE `WHERE` avec ses différentes manières d'exprimer 1 condition
 
 Une condition a toujours la syntaxe suivante : `champ OPERATEUR valeur`.
