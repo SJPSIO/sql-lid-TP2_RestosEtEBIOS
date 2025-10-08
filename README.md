@@ -16,7 +16,7 @@ Dans ce second TP,
 
 - sont révisées les clauses `SELECT, FROM et ORDER BY`,
 - sont illustrées la fonction `concat()` et la clause `AS`,
-- est découverte la CLAUSE `WHERE` avec ses différentes manières d'exprimer 1 condition
+- est découverte la CLAUSE `WHERE` avec ses différentes manières d'exprimer 1 condition.
 
 Une condition a toujours la syntaxe suivante : `champ OPERATEUR valeur`.
 Les opérateurs sont : `=`, `!=`,`>`,`>=`,`<`,`<=`,
