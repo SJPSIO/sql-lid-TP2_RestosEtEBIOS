@@ -61,7 +61,7 @@ export const tasksList: Task[] = [
     id: "select_codepostalAndVille_renamed_CP_Ville_of_resto",
     topic: "concat",
     database: "restos",
-    referenceSql: "SELECT nomR, (cpR || ' ' || villeR) AS CP_VILLE FROM resto;",
+    referenceSql: "SELECT nomR, cpR || ' ' || villeR AS CP_VILLE FROM resto;",
     tables: ["resto"],
   },
   { // Task 8 : en autonomie
